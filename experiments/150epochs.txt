@@ -1,0 +1,11 @@
+Confusion Matrix:
+                Predicted 0   Predicted 1
+Actual 0         28368    22
+Actual 1         26    64
+
+Found 64, out of 90
+Precission: 0.7441860465116279
+Recall: 0.7111111111111111
+Accuracy: 0.998314606741573
+F1-score: 0.7272727272727273
+Treshold: 99.7
